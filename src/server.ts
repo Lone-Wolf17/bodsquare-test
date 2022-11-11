@@ -1,6 +1,3 @@
-import "./pre-start"; // Must be the first import
-import logger from "jet-logger";
-
 import "./services/mq-service";
 
 import cookieParser from "cookie-parser";
